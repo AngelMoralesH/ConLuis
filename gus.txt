@@ -1,1 +1,2 @@
 cambio 26/11/2026
+sedundo cambio para ver en el main y luego hacer un merge migracion
